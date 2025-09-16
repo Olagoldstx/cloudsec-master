@@ -20,3 +20,9 @@ Focus areas: Linux, Networking, IAM/Zero Trust, Terraform, Kubernetes, PCNSE.
 ## How to run local K8s (Kind)
 kind create cluster --name lab
 kubectl get nodes
+## Current Status
+- ✅ Module 0 Day 0–1: Environment & Tooling (Docker, AWS CLI, Terraform, kubectl, Kind, Git+SSH)
+- ✅ Module 1 Day 1: Linux Shell Basics (Expanded)
+- ✅ Module 1 Day 2: Permissions & sudo Security
+- ✅ Module 1 Day 10: Basic Networking Lab
+- ▶️ Module 1 Day 3: Processes & System Monitoring (next up)
